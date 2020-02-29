@@ -4,7 +4,7 @@ print("Teddy\n"*10)
 print("Teddy\t"*10)
 print("\\ \\ \\")
 print(""" \
-大義名分　-On a Mission: Empowerment-
+<大義名分>　-On a Mission: Empowerment-
 We believe that the only way for a business to grow over 
 the long term is to contribute to the world so significantly 
 that people can't imagine life without it. Our contribution to 
